@@ -1,0 +1,18 @@
+increg{
+    cusc.reg++;
+}
+decreg{
+    cusc.reg++;
+}
+printf{
+    cusc.printf("%c",reg);
+}
+readf{
+    cusc.scanf("%c",&reg);
+}
+dprint{
+    cusc.printf("%d",reg);
+}
+dread{
+    cusc.scanf("%d",&reg);
+}end
