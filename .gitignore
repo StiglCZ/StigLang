@@ -1,3 +1,5 @@
 /bin
 /obj
 /output.c
+.vscode/tasks.json
+.vscode/launch.json
